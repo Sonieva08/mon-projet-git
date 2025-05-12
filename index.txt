@@ -1,1 +1,1 @@
-Ligne modifiée sur main
+Conflit : ligne modifiée différemment
